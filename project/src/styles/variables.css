@@ -1,0 +1,9 @@
+/* src/styles/variables.css */
+:root {
+  --primary-navy: #050C1A;      /* Deep Professional Navy */
+  --accent-gold: #C5A028;       /* Sophisticated Gold */
+  --accent-gold-hover: #E8C34D; /* Lighter Gold for Hover */
+  --text-white: #F8F9FA;
+  --glass-bg: rgba(5, 12, 26, 0.85); /* For scroll effect */
+  --transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
